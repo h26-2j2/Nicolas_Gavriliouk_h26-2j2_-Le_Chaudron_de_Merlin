@@ -19,14 +19,20 @@ public class Drop : MonoBehaviour
 
         float valeur = objectDeplace.GetComponent<Nombres>().factor;
 
+        
+
+
         if (estPremierSlot)
             calculateur.RecevoirPremierNombre(valeur);
         else
             calculateur.RecevoirDeuxiemeNombre(valeur);
 
-        Debug.Log("Valeur reçue : " + valeur);
+      
 
         objectDeplace.transform.SetParent(this.transform);
         objectDeplace.transform.localPosition = Vector3.zero;
+
+
+          Debug.Log("Valeur reçue : " + valeur);
     }
 }
