@@ -21,7 +21,7 @@ public class Drop : MonoBehaviour
 
         
 
-
+        // Parmi les deux "slots", il y a un qui est vrai. Ceci determine si c'est le premier. 
         if (estPremierSlot)
             calculateur.RecevoirPremierNombre(valeur);
         else
@@ -34,5 +34,6 @@ public class Drop : MonoBehaviour
 
 
           Debug.Log("Valeur reçue : " + valeur);
+        //  On n'a pâs encore appris comment faire des instances :(
     }
 }
