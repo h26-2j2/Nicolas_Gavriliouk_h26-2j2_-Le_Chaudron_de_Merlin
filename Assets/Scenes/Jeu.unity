@@ -1009,6 +1009,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &542965525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 542965526}
+  m_Layer: 0
+  m_Name: PositionCreation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &542965526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 542965525}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.29, y: -2.45, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &686976518
 GameObject:
   m_ObjectHideFlags: 0
@@ -2310,6 +2341,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Calculateur
   resultat: 0
+  PotionPrefab: {fileID: 4599716915916977653, guid: d64b2c55e97e78246962dfb44d009437, type: 3}
+  pointCreation: {fileID: 542965525}
 --- !u!4 &2069528798
 Transform:
   m_ObjectHideFlags: 0
@@ -2481,3 +2514,4 @@ SceneRoots:
   - {fileID: 1514565539}
   - {fileID: 434006578}
   - {fileID: 686976520}
+  - {fileID: 542965526}

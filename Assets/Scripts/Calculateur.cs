@@ -51,6 +51,7 @@ public class Calculateur : MonoBehaviour
         factor1 = 0;
         factor2 = 0;
         clone.GetComponent<Nombres>().factor = resultat;
+        // Debug.Log("The number of the prefab is", factor );
     } 
     }
     
