@@ -7,6 +7,9 @@ public class Calculateur : MonoBehaviour
     private float factor1 = 0;
     private float factor2 = 0;
 
+    public GameObject PotionPrefab;
+    public GameObject pointCreation;  
+
     public void RecevoirPremierNombre(float valeur)
     {
 
@@ -24,6 +27,7 @@ public class Calculateur : MonoBehaviour
 
 
 
+
     
 
     void Calculer()
@@ -34,5 +38,22 @@ public class Calculateur : MonoBehaviour
 
         resultat = factor1 * factor2;
         Debug.Log("Résultat Final : " + resultat);
+
+        
     }
+
+    private void Update() {
+        
+        if (factor1 > 0 && factor2 > 0) 
+    {
+        GameObject clone = Instantiate(PotionPrefab,pointCreation.transform.position, pointCreation.transform.rotation);
+
+        factor1 = 0;
+        factor2 = 0;
+        clone.GetComponent<Nombres>().factor = resultat;
+    } 
+    }
+    
 }
+
+    
