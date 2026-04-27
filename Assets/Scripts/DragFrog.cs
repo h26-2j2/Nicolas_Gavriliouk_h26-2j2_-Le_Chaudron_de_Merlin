@@ -1,15 +1,11 @@
 using UnityEngine;
-using TMPro;
-public class Nombres : MonoBehaviour
-{
 
-    public TMP_Text texteFactor;
-    public float factor = 1f;
+public class DragFrog : MonoBehaviour
+{
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        texteFactor = GetComponentInChildren<TMP_Text>();
-        texteFactor.text = $"{factor}";
+        
     }
 
     // Update is called once per frame

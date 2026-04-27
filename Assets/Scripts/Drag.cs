@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
+
 public class Drag : MonoBehaviour
 {
     public bool estPlace;
@@ -14,13 +15,16 @@ public class Drag : MonoBehaviour
     Transform parentInitial;
     Collider2D collider;
 
-
+    
     void Start()
     {
         positionInitiale = transform.position;
         parentInitial = transform.parent; // le parent est just la hierarchy de unity ou root
         collider = GetComponent<Collider2D>();
         audiosource = GetComponent<AudioSource>();
+
+        // calculateur = GetComponent<Calculateur>();
+
         
     }
 
