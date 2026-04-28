@@ -10,6 +10,8 @@ public class Calculateur : MonoBehaviour
     public GameObject PotionPrefab;
     public GameObject pointCreation;  
 
+    Transform ListePotions;
+
     public void RecevoirPremierNombre(float valeur)
     {
 
@@ -46,8 +48,12 @@ public class Calculateur : MonoBehaviour
         
         if (factor1 > 0 && factor2 > 0) 
     {
-        GameObject clone = Instantiate(PotionPrefab,pointCreation.transform.position, pointCreation.transform.rotation);
+   
+        ListePotions = GameObject.Find("ListePotions").transform;
+        GameObject clone = Instantiate(PotionPrefab,pointCreation.transform.position, pointCreation.transform.rotation, ListePotions);
 
+
+ 
         factor1 = 0;
         factor2 = 0;
         clone.GetComponent<Nombres>().factor = resultat;

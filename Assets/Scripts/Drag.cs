@@ -11,19 +11,24 @@ public class Drag : MonoBehaviour
 
     AudioSource audiosource;
 
-    Vector3 positionInitiale;
-    Transform parentInitial;
+    // Vector3 positionInitiale;
+    Transform listePotions;
     Collider2D collider;
 
+      Transform ListePotions;
     
     void Start()
     {
-        positionInitiale = transform.position;
-        parentInitial = transform.parent; // le parent est just la hierarchy de unity ou root
+
+        listePotions = GameObject.FindGameObjectWithTag("ListePotions").transform;
+        // positionInitiale = transform.position;
+        
+        // parentInitial = transform.listePotions; // le parent est just la hierarchy de unity ou root
+        transform.SetParent(listePotions);
         collider = GetComponent<Collider2D>();
         audiosource = GetComponent<AudioSource>();
 
-        // calculateur = GetComponent<Calculateur>();
+        calculateur = GameObject.FindAnyObjectByType<Calculateur>();
 
         
     }
@@ -53,6 +58,9 @@ public class Drag : MonoBehaviour
                     calculateur.RecevoirPremierNombre(0);
                 else
                     calculateur.RecevoirDeuxiemeNombre(0);
+            } else 
+            {
+                
             }
 
            
@@ -60,8 +68,8 @@ public class Drag : MonoBehaviour
         }
 
         
-        transform.SetParent(parentInitial, true); // Cette line ramène son enfant a son parent initial. son parent initial cest juste la hiearchie ou root.
-
+        transform.SetParent(listePotions); // Cette line ramène son enfant a son parent initial. son parent initial cest juste la hiearchie ou root.
+        // transform.localPosition = new Vector2(0,0);
         
 
         collider.enabled = false;
@@ -81,10 +89,14 @@ public class Drag : MonoBehaviour
     public void AuFinDrag(BaseEventData baseEventData)
 {
     collider.enabled = true;
+   
+
     
-    if (transform.parent == parentInitial)
+    if (transform.parent == listePotions)
     {
-        transform.position = positionInitiale;
+        // transform.parent = listePotions;
+        transform.SetParent(listePotions, true);
+        // transform.localPosition = new Vector2(0,0);
     }
 }
 }
