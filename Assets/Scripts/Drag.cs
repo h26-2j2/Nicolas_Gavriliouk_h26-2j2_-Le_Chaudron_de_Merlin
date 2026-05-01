@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 
 public class Drag : MonoBehaviour
@@ -12,19 +13,19 @@ public class Drag : MonoBehaviour
     AudioSource audiosource;
 
     // Vector3 positionInitiale;
-    Transform listePotions;
+    GestionNiveauPotions gestionNiveauPotions;
     Collider2D collider;
-
-      Transform ListePotions;
+Rigidbody2D rigidbody2D;
+    //   Transform ListePotions;
     
     void Start()
     {
-
-        listePotions = GameObject.FindGameObjectWithTag("ListePotions").transform;
+        rigidbody2D = GetComponent<Rigidbody2D>();
+        gestionNiveauPotions = GameObject.FindObjectOfType<GestionNiveauPotions>();;
         // positionInitiale = transform.position;
         
         // parentInitial = transform.listePotions; // le parent est just la hierarchy de unity ou root
-        transform.SetParent(listePotions);
+        transform.SetParent(gestionNiveauPotions.listePotions);
         collider = GetComponent<Collider2D>();
         audiosource = GetComponent<AudioSource>();
 
@@ -35,6 +36,10 @@ public class Drag : MonoBehaviour
 
     public void AuDebutDrag(BaseEventData baseEventData)
     {
+        if (rigidbody2D != null)
+        {
+            rigidbody2D.bodyType = RigidbodyType2D.Static; // Désactive la physique pendant le drag
+        }
         PointerEventData pointerEventData = baseEventData as PointerEventData;
 
         Vector3 positionCurseur = Camera.main.ScreenToWorldPoint(pointerEventData.position);
@@ -44,7 +49,19 @@ public class Drag : MonoBehaviour
 
          audiosource.PlayOneShot(sonPotion);
 
-        
+        if(gestionNiveauPotions.potionGauche == this.gameObject)
+        {
+
+            gestionNiveauPotions.potionGauche = null;
+
+        }
+
+        if(gestionNiveauPotions.potionDroite == this.gameObject)
+        {
+            gestionNiveauPotions.potionDroite = null;
+
+        }
+
         // Cette condition verfie si il y a quelque chose dans parent qui conteint drop script. sa return 0.
         if (estPlace)
         {
@@ -68,7 +85,7 @@ public class Drag : MonoBehaviour
         }
 
         
-        transform.SetParent(listePotions); // Cette line ramène son enfant a son parent initial. son parent initial cest juste la hiearchie ou root.
+        transform.SetParent(gestionNiveauPotions.listePotions); // Cette line ramène son enfant a son parent initial. son parent initial cest juste la hiearchie ou root.
         // transform.localPosition = new Vector2(0,0);
         
 
@@ -90,12 +107,16 @@ public class Drag : MonoBehaviour
 {
     collider.enabled = true;
    
-
+    if (rigidbody2D != null)
+    {
+        rigidbody2D.bodyType = RigidbodyType2D.Dynamic; // Réactive la physique après le drag
+    }
     
-    if (transform.parent == listePotions)
+    if (transform.parent == gestionNiveauPotions.listePotions)
     {
         // transform.parent = listePotions;
-        transform.SetParent(listePotions, true);
+        transform.SetParent(gestionNiveauPotions.listePotions, true);
+        LayoutRebuilder.ForceRebuildLayoutImmediate(gestionNiveauPotions.listePotions.GetComponent<RectTransform>());
         // transform.localPosition = new Vector2(0,0);
     }
 }

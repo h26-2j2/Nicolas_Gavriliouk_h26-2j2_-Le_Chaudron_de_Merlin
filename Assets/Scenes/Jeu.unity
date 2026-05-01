@@ -210,6 +210,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &68647904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 68647906}
+  - component: {fileID: 68647905}
+  m_Layer: 0
+  m_Name: GestionNiveauPotions
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &68647905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 68647904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d132488bb5f0ff4ca57ef610809aba3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GestionNiveauPotions
+  listePotions: {fileID: 683692551}
+  potionGauche: {fileID: 0}
+  potionDroite: {fileID: 0}
+--- !u!4 &68647906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 68647904}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.37211, y: 3.16389, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &131059880
 GameObject:
   m_ObjectHideFlags: 0
@@ -224,7 +271,7 @@ GameObject:
   - component: {fileID: 131059882}
   - component: {fileID: 131059881}
   m_Layer: 0
-  m_Name: Square (3)
+  m_Name: slot 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -309,6 +356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Drop
   calculateur: {fileID: 2069528797}
   estPremierSlot: 0
+  gestionNiveauPotions: {fileID: 68647905}
 --- !u!212 &131059884
 SpriteRenderer:
   serializedVersion: 2
@@ -488,7 +536,7 @@ GameObject:
   - component: {fileID: 445967557}
   - component: {fileID: 445967556}
   m_Layer: 0
-  m_Name: Square (1)
+  m_Name: slot 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -573,6 +621,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Drop
   calculateur: {fileID: 2069528797}
   estPremierSlot: 1
+  gestionNiveauPotions: {fileID: 68647905}
 --- !u!212 &445967559
 SpriteRenderer:
   serializedVersion: 2
@@ -715,8 +764,8 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 1, y: 1}
-  m_Spacing: {x: 1, y: 1}
+  m_CellSize: {x: 1, y: 0.98}
+  m_Spacing: {x: 0.8, y: 0.4}
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!224 &683692551
@@ -735,8 +784,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4.11, y: 2.56}
-  m_SizeDelta: {x: 7.99, y: 4}
+  m_AnchoredPosition: {x: -5.7407, y: 2.1757}
+  m_SizeDelta: {x: 4.9205, y: 4.0466}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &686976518
 GameObject:
@@ -1014,13 +1063,45 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788063261}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0049, y: 0.02, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.004900001, y: 0.01999998, z: 0}
   m_LocalScale: {x: 1.1571451, y: 1.1476046, z: 1.1476046}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &874143745 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4599716915916977653, guid: d64b2c55e97e78246962dfb44d009437, type: 3}
+  m_PrefabInstance: {fileID: 1183819254}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &874143754
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 874143745}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1163499783
 GameObject:
   m_ObjectHideFlags: 0
@@ -1291,6 +1372,9 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4599716915916977653, guid: d64b2c55e97e78246962dfb44d009437, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 874143754}
     - targetCorrespondingSourceObject: {fileID: 8520269127975216147, guid: d64b2c55e97e78246962dfb44d009437, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
@@ -1755,6 +1839,7 @@ MonoBehaviour:
   resultat: 0
   PotionPrefab: {fileID: 4599716915916977653, guid: d64b2c55e97e78246962dfb44d009437, type: 3}
   pointCreation: {fileID: 542965525}
+  gestionNiveauPotions: {fileID: 68647905}
 --- !u!4 &2069528798
 Transform:
   m_ObjectHideFlags: 0
@@ -1912,15 +1997,16 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 68647906}
   - {fileID: 730178230}
   - {fileID: 1163499786}
   - {fileID: 1337291137}
   - {fileID: 445967560}
   - {fileID: 131059885}
   - {fileID: 2089443614}
+  - {fileID: 788063263}
   - {fileID: 2069528798}
   - {fileID: 9995141}
-  - {fileID: 788063263}
   - {fileID: 1514565539}
   - {fileID: 434006578}
   - {fileID: 686976520}
