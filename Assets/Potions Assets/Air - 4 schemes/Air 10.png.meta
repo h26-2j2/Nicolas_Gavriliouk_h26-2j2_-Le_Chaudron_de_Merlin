@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 73880c85bae13ef42a0b3970d2ad09a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2779443959521236010
+    second: Air 10_0
+  - first:
+      213: 264933181183977367
+    second: Air 10_1
+  - first:
+      213: -1302291239845292446
+    second: Air 10_2
+  - first:
+      213: 2902779659210613816
+    second: Air 10_3
+  - first:
+      213: -4731860388148450166
+    second: Air 10_4
+  - first:
+      213: -1369338175323234215
+    second: Air 10_5
+  - first:
+      213: 8171282851310137628
+    second: Air 10_6
+  - first:
+      213: -1528285907881459088
+    second: Air 10_7
+  - first:
+      213: 2964066994327678514
+    second: Air 10_8
+  - first:
+      213: 5965670121469071481
+    second: Air 10_9
+  - first:
+      213: -3398848287577055806
+    second: Air 10_10
+  - first:
+      213: -15262395290735587
+    second: Air 10_11
+  - first:
+      213: 1451884111320778473
+    second: Air 10_12
+  - first:
+      213: -3853731890685044781
+    second: Air 10_13
+  - first:
+      213: -5754334471680123679
+    second: Air 10_14
+  - first:
+      213: -887085078170358322
+    second: Air 10_15
+  - first:
+      213: -8914216062381927838
+    second: Air 10_16
+  - first:
+      213: -6322804801343508730
+    second: Air 10_17
+  - first:
+      213: 9041187487769598352
+    second: Air 10_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air 10_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 15
+        width: 115
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a245e581e81929620800000000000000
+      internalID: 2779443959521236010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7976fa9135b3da300800000000000000
+      internalID: 264933181183977367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_2
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 84
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661be664055dede0800000000000000
+      internalID: -1302291239845292446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 77
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346a7078beb84820800000000000000
+      internalID: 2902779659210613816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_4
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 68
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6ba52c0e055eb0800000000000000
+      internalID: -4731860388148450166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_5
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 27
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502a724f222ffce0800000000000000
+      internalID: -1369338175323234215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 39
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f49fb57a366170800000000000000
+      internalID: 8171282851310137628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 34
+        width: 86
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728d7160107acae0800000000000000
+      internalID: -1528285907881459088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 44
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e6c5f1a3b722920800000000000000
+      internalID: 2964066994327678514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97053553e515ac250800000000000000
+      internalID: 5965670121469071481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 47
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd56858d7dd4d0d0800000000000000
+      internalID: -3398848287577055806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 53
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c264eaee6c9cff0800000000000000
+      internalID: -15262395290735587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 42
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e60f4628e0262410800000000000000
+      internalID: 1451884111320778473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 41
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d79f1c634bc48ac0800000000000000
+      internalID: -3853731890685044781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_14
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 36
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec98b8294f7420b0800000000000000
+      internalID: -5754334471680123679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_15
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd2b1642d070b3f0800000000000000
+      internalID: -887085078170358322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_16
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 24
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262d4a688b75a4480800000000000000
+      internalID: -8914216062381927838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_17
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f29c76882e048a0800000000000000
+      internalID: -6322804801343508730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 10_18
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099963c2e10c87d70800000000000000
+      internalID: 9041187487769598352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Air 10_0: 2779443959521236010
+      Air 10_1: 264933181183977367
+      Air 10_10: -3398848287577055806
+      Air 10_11: -15262395290735587
+      Air 10_12: 1451884111320778473
+      Air 10_13: -3853731890685044781
+      Air 10_14: -5754334471680123679
+      Air 10_15: -887085078170358322
+      Air 10_16: -8914216062381927838
+      Air 10_17: -6322804801343508730
+      Air 10_18: 9041187487769598352
+      Air 10_2: -1302291239845292446
+      Air 10_3: 2902779659210613816
+      Air 10_4: -4731860388148450166
+      Air 10_5: -1369338175323234215
+      Air 10_6: 8171282851310137628
+      Air 10_7: -1528285907881459088
+      Air 10_8: 2964066994327678514
+      Air 10_9: 5965670121469071481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

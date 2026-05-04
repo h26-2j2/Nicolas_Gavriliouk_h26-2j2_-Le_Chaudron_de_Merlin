@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 6938283984304941668}
   - component: {fileID: 361369841279807696}
   - component: {fileID: 1406704186850251295}
+  - component: {fileID: -2492183341907314036}
   - component: {fileID: 6549449595027777800}
   m_Layer: 0
   m_Name: Prefab Potion
@@ -122,6 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc499655df81aff4298b7b5bf7036b39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nombres
+  texteFactor: {fileID: 0}
   factor: 0
 --- !u!114 &6938283984304941668
 MonoBehaviour:
@@ -235,6 +237,19 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.76331234
+--- !u!114 &-2492183341907314036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4599716915916977653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa5f0e129b23ef346953cd7ed906e751, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HoverScale
+  scaleMultiplier: 1.2
 --- !u!82 &6549449595027777800
 AudioSource:
   m_ObjectHideFlags: 0

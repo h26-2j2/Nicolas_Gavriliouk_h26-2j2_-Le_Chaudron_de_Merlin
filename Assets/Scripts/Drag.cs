@@ -25,7 +25,7 @@ Rigidbody2D rigidbody2D;
         // positionInitiale = transform.position;
         
         // parentInitial = transform.listePotions; // le parent est just la hierarchy de unity ou root
-        transform.SetParent(gestionNiveauPotions.listePotions);
+        transform.SetParent(gestionNiveauPotions.listePotions, false);
         collider = GetComponent<Collider2D>();
         audiosource = GetComponent<AudioSource>();
 
@@ -49,18 +49,6 @@ Rigidbody2D rigidbody2D;
 
          audiosource.PlayOneShot(sonPotion);
 
-        if(gestionNiveauPotions.potionGauche == this.gameObject)
-        {
-
-            gestionNiveauPotions.potionGauche = null;
-
-        }
-
-        if(gestionNiveauPotions.potionDroite == this.gameObject)
-        {
-            gestionNiveauPotions.potionDroite = null;
-
-        }
 
         // Cette condition verfie si il y a quelque chose dans parent qui conteint drop script. sa return 0.
         if (estPlace)
@@ -85,7 +73,7 @@ Rigidbody2D rigidbody2D;
         }
 
         
-        transform.SetParent(gestionNiveauPotions.listePotions); // Cette line ramène son enfant a son parent initial. son parent initial cest juste la hiearchie ou root.
+        transform.SetParent(gestionNiveauPotions.listePotions,false); // Cette line ramène son enfant a son parent initial. son parent initial cest juste la hiearchie ou root.
         // transform.localPosition = new Vector2(0,0);
         
 
@@ -115,7 +103,7 @@ Rigidbody2D rigidbody2D;
     if (transform.parent == gestionNiveauPotions.listePotions)
     {
         // transform.parent = listePotions;
-        transform.SetParent(gestionNiveauPotions.listePotions, true);
+        transform.SetParent(gestionNiveauPotions.listePotions, false);
         LayoutRebuilder.ForceRebuildLayoutImmediate(gestionNiveauPotions.listePotions.GetComponent<RectTransform>());
         // transform.localPosition = new Vector2(0,0);
     }

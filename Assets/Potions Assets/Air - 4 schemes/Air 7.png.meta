@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 31a1c361162f6ac43803168c0fa7a4fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7613577739639645880
+    second: Air 7_0
+  - first:
+      213: -8456078440893095659
+    second: Air 7_1
+  - first:
+      213: 7310164715951901796
+    second: Air 7_2
+  - first:
+      213: -2799783228145727031
+    second: Air 7_3
+  - first:
+      213: 1989467355075618023
+    second: Air 7_4
+  - first:
+      213: -6041937354067882838
+    second: Air 7_5
+  - first:
+      213: -5065083574811839315
+    second: Air 7_6
+  - first:
+      213: 1154415963344203073
+    second: Air 7_7
+  - first:
+      213: -8915003467347134166
+    second: Air 7_8
+  - first:
+      213: -4391047778311685459
+    second: Air 7_9
+  - first:
+      213: -8928470268824043917
+    second: Air 7_10
+  - first:
+      213: 2489290355316620817
+    second: Air 7_11
+  - first:
+      213: 7544422360575710074
+    second: Air 7_12
+  - first:
+      213: 99890155020025758
+    second: Air 7_13
+  - first:
+      213: 6122022710606005927
+    second: Air 7_14
+  - first:
+      213: 1894529224081138091
+    second: Air 7_15
+  - first:
+      213: 3480881415543023297
+    second: Air 7_16
+  - first:
+      213: 7684143084330512428
+    second: Air 7_17
+  - first:
+      213: 611497220774161022
+    second: Air 7_18
+  - first:
+      213: 8426904693181424016
+    second: Air 7_19
+  - first:
+      213: 1825135538969141740
+    second: Air 7_20
+  - first:
+      213: -7855150794158253233
+    second: Air 7_21
+  - first:
+      213: -1584761651348291572
+    second: Air 7_22
+  - first:
+      213: 2447628060612330707
+    second: Air 7_23
+  - first:
+      213: 5942218491679396342
+    second: Air 7_24
+  - first:
+      213: -6492500206115266472
+    second: Air 7_25
+  - first:
+      213: 1351636654555514621
+    second: Air 7_26
+  - first:
+      213: -2827468652023162757
+    second: Air 7_27
+  - first:
+      213: 2757017936222924888
+    second: Air 7_28
+  - first:
+      213: 2898589213492816349
+    second: Air 7_29
+  - first:
+      213: -6689633641569996863
+    second: Air 7_30
+  - first:
+      213: 5397210714795102244
+    second: Air 7_31
+  - first:
+      213: -6834500925713820223
+    second: Air 7_32
+  - first:
+      213: -1206484314809417315
+    second: Air 7_33
+  - first:
+      213: -94151174199120851
+    second: Air 7_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air 7_0
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2
+        width: 134
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6ea01ad9cd8a960800000000000000
+      internalID: 7613577739639645880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1
+        width: 175
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116ab1d579f5aa80800000000000000
+      internalID: -8456078440893095659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 144
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c48e7041ce27560800000000000000
+      internalID: 7310164715951901796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 51
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c90746ecfb2529d0800000000000000
+      internalID: -2799783228145727031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_4
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4a48fc4020c9b10800000000000000
+      internalID: 1989467355075618023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_5
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 15
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacce9fecf9b62ca0800000000000000
+      internalID: -6041937354067882838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_6
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 53
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4bcad135535b9b0800000000000000
+      internalID: -5065083574811839315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_7
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 24
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14deb2ac33f450010800000000000000
+      internalID: 1154415963344203073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_8
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 61
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f565849b874480800000000000000
+      internalID: -8915003467347134166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_9
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab6f57f4ddf03c0800000000000000
+      internalID: -4391047778311685459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_10
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 65
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e3b177893b71480800000000000000
+      internalID: -8928470268824043917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_11
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 40
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef37ba36cbb8220800000000000000
+      internalID: 2489290355316620817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_12
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 68
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7311a53a2c23b860800000000000000
+      internalID: 7544422360575710074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_13
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 65
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff6861191e26100800000000000000
+      internalID: 99890155020025758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_14
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 10
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a68b8c283bc5f450800000000000000
+      internalID: 6122022710606005927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_15
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 63
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e3f9aa48ba4a10800000000000000
+      internalID: 1894529224081138091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_16
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 24
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c663b674339e4030800000000000000
+      internalID: 3480881415543023297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_17
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 47
+        width: 218
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207bc04c6f83aa60800000000000000
+      internalID: 7684143084330512428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_18
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 34
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae1618b797c7800800000000000000
+      internalID: 611497220774161022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_19
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 36
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091a629bb2162f470800000000000000
+      internalID: 8426904693181424016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_20
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 29
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1623b4a1f245910800000000000000
+      internalID: 1825135538969141740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_21
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bd11998f5ecf290800000000000000
+      internalID: -7855150794158253233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_22
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0049bdacabc10ae0800000000000000
+      internalID: -1584761651348291572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 83
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d48317c0c8b7f120800000000000000
+      internalID: 2447628060612330707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 163
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1de462c30077250800000000000000
+      internalID: 5942218491679396342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_25
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 21
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506956167106e5a0800000000000000
+      internalID: -6492500206115266472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 25
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6cd24406af1c210800000000000000
+      internalID: 1351636654555514621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_27
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 4
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785b96dd30d2c8d0800000000000000
+      internalID: -2827468652023162757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_28
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 0
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b2f7a435e24620800000000000000
+      internalID: 2757017936222924888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_29
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a404488bd93820800000000000000
+      internalID: 2898589213492816349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_30
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 17
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa7bc65a5a923a0800000000000000
+      internalID: -6689633641569996863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_31
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205b49ac8eb6ea40800000000000000
+      internalID: 5397210714795102244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_32
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 18
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5dfb96e99f621a0800000000000000
+      internalID: -6834500925713820223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_33
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 0
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9144bc68e4b14fe0800000000000000
+      internalID: -1206484314809417315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 7_34
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ceca2810281bef0800000000000000
+      internalID: -94151174199120851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Air 7_0: 7613577739639645880
+      Air 7_1: -8456078440893095659
+      Air 7_10: -8928470268824043917
+      Air 7_11: 2489290355316620817
+      Air 7_12: 7544422360575710074
+      Air 7_13: 99890155020025758
+      Air 7_14: 6122022710606005927
+      Air 7_15: 1894529224081138091
+      Air 7_16: 3480881415543023297
+      Air 7_17: 7684143084330512428
+      Air 7_18: 611497220774161022
+      Air 7_19: 8426904693181424016
+      Air 7_2: 7310164715951901796
+      Air 7_20: 1825135538969141740
+      Air 7_21: -7855150794158253233
+      Air 7_22: -1584761651348291572
+      Air 7_23: 2447628060612330707
+      Air 7_24: 5942218491679396342
+      Air 7_25: -6492500206115266472
+      Air 7_26: 1351636654555514621
+      Air 7_27: -2827468652023162757
+      Air 7_28: 2757017936222924888
+      Air 7_29: 2898589213492816349
+      Air 7_3: -2799783228145727031
+      Air 7_30: -6689633641569996863
+      Air 7_31: 5397210714795102244
+      Air 7_32: -6834500925713820223
+      Air 7_33: -1206484314809417315
+      Air 7_34: -94151174199120851
+      Air 7_4: 1989467355075618023
+      Air 7_5: -6041937354067882838
+      Air 7_6: -5065083574811839315
+      Air 7_7: 1154415963344203073
+      Air 7_8: -8915003467347134166
+      Air 7_9: -4391047778311685459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

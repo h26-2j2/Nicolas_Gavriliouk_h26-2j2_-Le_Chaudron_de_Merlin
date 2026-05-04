@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: bc89375e5ad714b4db226d4e50b6c0bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4029632773491263981
+    second: DarkSmoke 8_0
+  - first:
+      213: 440924323736040713
+    second: DarkSmoke 8_1
+  - first:
+      213: -4691390164520560863
+    second: DarkSmoke 8_2
+  - first:
+      213: 4337490496734468153
+    second: DarkSmoke 8_3
+  - first:
+      213: 4927003910617042065
+    second: DarkSmoke 8_4
+  - first:
+      213: -4510032406507275500
+    second: DarkSmoke 8_5
+  - first:
+      213: -3082967934869704570
+    second: DarkSmoke 8_6
+  - first:
+      213: 6654024448126530184
+    second: DarkSmoke 8_7
+  - first:
+      213: -7431251882060022881
+    second: DarkSmoke 8_8
+  - first:
+      213: 4968014284666427469
+    second: DarkSmoke 8_9
+  - first:
+      213: -3006230941117447837
+    second: DarkSmoke 8_10
+  - first:
+      213: -8563239949909206590
+    second: DarkSmoke 8_11
+  - first:
+      213: 8174738362513624785
+    second: DarkSmoke 8_12
+  - first:
+      213: 6233727605260644440
+    second: DarkSmoke 8_13
+  - first:
+      213: 7234789938305367222
+    second: DarkSmoke 8_14
+  - first:
+      213: 7633799455621920467
+    second: DarkSmoke 8_15
+  - first:
+      213: -1652131231701841391
+    second: DarkSmoke 8_16
+  - first:
+      213: 6729422501279450564
+    second: DarkSmoke 8_17
+  - first:
+      213: 952909847403861153
+    second: DarkSmoke 8_18
+  - first:
+      213: 7648593635279944963
+    second: DarkSmoke 8_19
+  - first:
+      213: -4054557558064530817
+    second: DarkSmoke 8_20
+  - first:
+      213: 3553120131070844799
+    second: DarkSmoke 8_21
+  - first:
+      213: 2228063829507994001
+    second: DarkSmoke 8_22
+  - first:
+      213: -1389984540594468982
+    second: DarkSmoke 8_23
+  - first:
+      213: 3725973453979205183
+    second: DarkSmoke 8_24
+  - first:
+      213: 5804543439530543759
+    second: DarkSmoke 8_25
+  - first:
+      213: -7545101065625456049
+    second: DarkSmoke 8_26
+  - first:
+      213: -8614729351839773752
+    second: DarkSmoke 8_27
+  - first:
+      213: -4739623759842329213
+    second: DarkSmoke 8_28
+  - first:
+      213: -6660651674375385753
+    second: DarkSmoke 8_29
+  - first:
+      213: 1062125290428587472
+    second: DarkSmoke 8_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkSmoke 8_0
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 5
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316f7c8a75ed318c0800000000000000
+      internalID: -4029632773491263981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 35
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905bd19165a7e1600800000000000000
+      internalID: 440924323736040713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_2
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 36
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1279dfc5085d4eeb0800000000000000
+      internalID: -4691390164520560863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 38
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9389d7230acd13c30800000000000000
+      internalID: 4337490496734468153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_4
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 274
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0a4bc3fb306440800000000000000
+      internalID: 4927003910617042065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_5
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 2
+        width: 157
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b32a4eb652961c0800000000000000
+      internalID: -4510032406507275500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_6
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1
+        width: 188
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680fb2c5ff81735d0800000000000000
+      internalID: -3082967934869704570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_7
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 9
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b8552bf7d75c50800000000000000
+      internalID: 6654024448126530184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_8
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 33
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bfb5529c3eed890800000000000000
+      internalID: -7431251882060022881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_9
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 18
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48db949baee1f440800000000000000
+      internalID: 4968014284666427469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_10
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 20
+        width: 67
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36108e103e8b746d0800000000000000
+      internalID: -3006230941117447837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_11
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 31
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95a33b2a2492980800000000000000
+      internalID: -8563239949909206590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_12
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 3
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0265aa31827170800000000000000
+      internalID: 8174738362513624785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507b12ba36a28650800000000000000
+      internalID: 6233727605260644440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 10
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcf2490e13276460800000000000000
+      internalID: 7234789938305367222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 7
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d63ae6c824b0f960800000000000000
+      internalID: 7633799455621920467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_16
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 13
+        width: 188
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a451ce5637219e0800000000000000
+      internalID: -1652131231701841391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_17
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 24
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c548446c16b36d50800000000000000
+      internalID: 6729422501279450564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_18
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 15
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49a7d157a693d00800000000000000
+      internalID: 952909847403861153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_19
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2
+        width: 213
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbc262363452a60800000000000000
+      internalID: 7648593635279944963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_20
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a303602615bb7c0800000000000000
+      internalID: -4054557558064530817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_21
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 14
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f54c81fe73f4130800000000000000
+      internalID: 3553120131070844799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_22
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2
+        width: 163
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19178b68f3cabee10800000000000000
+      internalID: 2228063829507994001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_23
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 15
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87059ebc68c5bce0800000000000000
+      internalID: -1389984540594468982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_24
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 18
+        width: 83
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e37f68d1155b330800000000000000
+      internalID: 3725973453979205183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_25
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aca842181ed8050800000000000000
+      internalID: 5804543439530543759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_26
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4239f47e8a6a4790800000000000000
+      internalID: -7545101065625456049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_27
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 24
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb857b1c45527880800000000000000
+      internalID: -8614729351839773752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_28
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 4
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38db8915d49793eb0800000000000000
+      internalID: -4739623759842329213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_29
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8e30879c9093a0800000000000000
+      internalID: -6660651674375385753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSmoke 8_30
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd54f2035d6dbe00800000000000000
+      internalID: 1062125290428587472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkSmoke 8_0: -4029632773491263981
+      DarkSmoke 8_1: 440924323736040713
+      DarkSmoke 8_10: -3006230941117447837
+      DarkSmoke 8_11: -8563239949909206590
+      DarkSmoke 8_12: 8174738362513624785
+      DarkSmoke 8_13: 6233727605260644440
+      DarkSmoke 8_14: 7234789938305367222
+      DarkSmoke 8_15: 7633799455621920467
+      DarkSmoke 8_16: -1652131231701841391
+      DarkSmoke 8_17: 6729422501279450564
+      DarkSmoke 8_18: 952909847403861153
+      DarkSmoke 8_19: 7648593635279944963
+      DarkSmoke 8_2: -4691390164520560863
+      DarkSmoke 8_20: -4054557558064530817
+      DarkSmoke 8_21: 3553120131070844799
+      DarkSmoke 8_22: 2228063829507994001
+      DarkSmoke 8_23: -1389984540594468982
+      DarkSmoke 8_24: 3725973453979205183
+      DarkSmoke 8_25: 5804543439530543759
+      DarkSmoke 8_26: -7545101065625456049
+      DarkSmoke 8_27: -8614729351839773752
+      DarkSmoke 8_28: -4739623759842329213
+      DarkSmoke 8_29: -6660651674375385753
+      DarkSmoke 8_3: 4337490496734468153
+      DarkSmoke 8_30: 1062125290428587472
+      DarkSmoke 8_4: 4927003910617042065
+      DarkSmoke 8_5: -4510032406507275500
+      DarkSmoke 8_6: -3082967934869704570
+      DarkSmoke 8_7: 6654024448126530184
+      DarkSmoke 8_8: -7431251882060022881
+      DarkSmoke 8_9: 4968014284666427469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

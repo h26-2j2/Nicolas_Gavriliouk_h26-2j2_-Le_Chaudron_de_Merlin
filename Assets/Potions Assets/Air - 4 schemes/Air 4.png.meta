@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 7c29db7f688ab094eb4f1960545f13db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3874930803479604218
+    second: Air 4_0
+  - first:
+      213: -4905145104505630940
+    second: Air 4_1
+  - first:
+      213: -8261566809525174266
+    second: Air 4_2
+  - first:
+      213: 1780456356913966026
+    second: Air 4_3
+  - first:
+      213: 3160270361258573847
+    second: Air 4_4
+  - first:
+      213: -8485945788100622033
+    second: Air 4_5
+  - first:
+      213: -3796869640087895456
+    second: Air 4_6
+  - first:
+      213: 5494165133143674467
+    second: Air 4_7
+  - first:
+      213: 1694972952768903234
+    second: Air 4_8
+  - first:
+      213: -5443176120922081495
+    second: Air 4_9
+  - first:
+      213: 7160930482101081332
+    second: Air 4_10
+  - first:
+      213: 8855971583766239348
+    second: Air 4_11
+  - first:
+      213: 7423002842403829397
+    second: Air 4_12
+  - first:
+      213: -1530198834412966649
+    second: Air 4_13
+  - first:
+      213: 3596941133252937504
+    second: Air 4_14
+  - first:
+      213: 2968922649223267856
+    second: Air 4_15
+  - first:
+      213: 6085119146550867209
+    second: Air 4_16
+  - first:
+      213: 679110584426740306
+    second: Air 4_17
+  - first:
+      213: 7206999682710663389
+    second: Air 4_18
+  - first:
+      213: 4777848214699901591
+    second: Air 4_19
+  - first:
+      213: 4412728780816188587
+    second: Air 4_20
+  - first:
+      213: -5351617347546199633
+    second: Air 4_21
+  - first:
+      213: 4836660018889390900
+    second: Air 4_22
+  - first:
+      213: 8070703193197197846
+    second: Air 4_23
+  - first:
+      213: 8101738093471079134
+    second: Air 4_24
+  - first:
+      213: -8668740102973557659
+    second: Air 4_25
+  - first:
+      213: 2603419688867727754
+    second: Air 4_26
+  - first:
+      213: -1474321590488368888
+    second: Air 4_27
+  - first:
+      213: 8535316518067851728
+    second: Air 4_28
+  - first:
+      213: 7532353311968725205
+    second: Air 4_29
+  - first:
+      213: -2338743530766816942
+    second: Air 4_30
+  - first:
+      213: 1407163856094775444
+    second: Air 4_31
+  - first:
+      213: -1664128238489905222
+    second: Air 4_32
+  - first:
+      213: 9117626508351097730
+    second: Air 4_33
+  - first:
+      213: -1291862933577173140
+    second: Air 4_34
+  - first:
+      213: -4850444532162697453
+    second: Air 4_35
+  - first:
+      213: -112044649331666384
+    second: Air 4_36
+  - first:
+      213: -5624690395988859509
+    second: Air 4_37
+  - first:
+      213: -4763116156558208806
+    second: Air 4_38
+  - first:
+      213: 392447534707342316
+    second: Air 4_39
+  - first:
+      213: -647921505990946572
+    second: Air 4_40
+  - first:
+      213: -5973708870853132435
+    second: Air 4_41
+  - first:
+      213: -3710615048766506145
+    second: Air 4_42
+  - first:
+      213: 431425309834568360
+    second: Air 4_43
+  - first:
+      213: 2512291319933039188
+    second: Air 4_44
+  - first:
+      213: -596708375986685665
+    second: Air 4_45
+  - first:
+      213: -7692345480904088180
+    second: Air 4_46
+  - first:
+      213: -139533024443107466
+    second: Air 4_47
+  - first:
+      213: -7330969231354697678
+    second: Air 4_48
+  - first:
+      213: 7986877010129058104
+    second: Air 4_49
+  - first:
+      213: -7261535647029817073
+    second: Air 4_50
+  - first:
+      213: 1981495350547200316
+    second: Air 4_51
+  - first:
+      213: 6504450956748429982
+    second: Air 4_52
+  - first:
+      213: -3771338969546943265
+    second: Air 4_53
+  - first:
+      213: 4564706195094653795
+    second: Air 4_54
+  - first:
+      213: -8062674777448006225
+    second: Air 4_55
+  - first:
+      213: -3345860992362479776
+    second: Air 4_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air 4_0
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3
+        width: 239
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6041169e6fa793ac0800000000000000
+      internalID: -3874930803479604218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_1
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 8
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f023a148c6debb0800000000000000
+      internalID: -4905145104505630940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_2
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 5
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600481622c4095d80800000000000000
+      internalID: -8261566809525174266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 7
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb61f39f9375b810800000000000000
+      internalID: 1780456356913966026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_4
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 2
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710430556298bdb20800000000000000
+      internalID: 3160270361258573847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 7
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294a05244ddb3a80800000000000000
+      internalID: -8485945788100622033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_6
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 46
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0628814dd2fce4bc0800000000000000
+      internalID: -3796869640087895456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_7
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 65
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8d5a44123f3c40800000000000000
+      internalID: 5494165133143674467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_8
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 82
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2487fa19be0c58710800000000000000
+      internalID: 1694972952768903234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_9
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 48
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927fc8e3824f574b0800000000000000
+      internalID: -5443176120922081495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_10
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 71
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d6ee455cb06360800000000000000
+      internalID: 7160930482101081332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_11
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 49
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47817570c3bb6ea70800000000000000
+      internalID: 8855971583766239348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_12
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 84
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f134a1cdc30760800000000000000
+      internalID: 7423002842403829397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 8
+        width: 232
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d29177444a3cae0800000000000000
+      internalID: -1530198834412966649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_14
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027488d37e6eae130800000000000000
+      internalID: 3596941133252937504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_15
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 70
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01680906b6bb33920800000000000000
+      internalID: 2968922649223267856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_16
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 34
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b71a9f9fa27450800000000000000
+      internalID: 6085119146550867209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_17
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab6fb7a7fac6900800000000000000
+      internalID: 679110584426740306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_18
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 56
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd07250f608640460800000000000000
+      internalID: 7206999682710663389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_19
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 15
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920ceb13a35e4240800000000000000
+      internalID: 4777848214699901591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 186
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba401be42792d3d30800000000000000
+      internalID: 4412728780816188587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_21
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c0b1606c3bb5b0800000000000000
+      internalID: -5351617347546199633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_22
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 42
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7c3559a44f1340800000000000000
+      internalID: 4836660018889390900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_23
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 44
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a31263bc5e00070800000000000000
+      internalID: 8070703193197197846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_24
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 45
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda18940fd72f6070800000000000000
+      internalID: 8101738093471079134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_25
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 11
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564f3182ec272b780800000000000000
+      internalID: -8668740102973557659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_26
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89083cd964312420800000000000000
+      internalID: 2603419688867727754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_27
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 48
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809704223582a8be0800000000000000
+      internalID: -1474321590488368888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_28
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 15
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d155f0b629837670800000000000000
+      internalID: 8535316518067851728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_29
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 36
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d802aadd6b488860800000000000000
+      internalID: 7532353311968725205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_30
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 14
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259a6e3662d1b8fd0800000000000000
+      internalID: -2338743530766816942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4984c475210478310800000000000000
+      internalID: 1407163856094775444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_32
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 6
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7dc1c1f24d7e8e0800000000000000
+      internalID: -1664128238489905222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_33
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 37
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bc3f88001588e70800000000000000
+      internalID: 9117626508351097730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_34
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 29
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6773a9a181621ee0800000000000000
+      internalID: -1291862933577173140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_35
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 24
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317e4b19562cfacb0800000000000000
+      internalID: -4850444532162697453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_36
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 19
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0325a9d2cffe17ef0800000000000000
+      internalID: -112044649331666384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_37
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 7
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85688fb2e511f1b0800000000000000
+      internalID: -5624690395988859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_38
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 29
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad09c68771306edb0800000000000000
+      internalID: -4763116156558208806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_39
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 7
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb753b14f0427500800000000000000
+      internalID: 392447534707342316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_40
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 0
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d219b2de1207f0800000000000000
+      internalID: -647921505990946572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_41
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff2399e6f191da0800000000000000
+      internalID: -5973708870853132435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_42
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 8
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bbd08d54f318cc0800000000000000
+      internalID: -3710615048766506145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_43
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a26dc3980bbcf500800000000000000
+      internalID: 431425309834568360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_44
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 6
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452f7e015a37dd220800000000000000
+      internalID: 2512291319933039188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_45
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1930deb4e018b7f0800000000000000
+      internalID: -596708375986685665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_46
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 5
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8561297a8c4f3590800000000000000
+      internalID: -7692345480904088180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_47
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677f1ab1477401ef0800000000000000
+      internalID: -139533024443107466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_48
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238e8c1435a234a90800000000000000
+      internalID: -7330969231354697678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_49
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839f97d035617de60800000000000000
+      internalID: 7986877010129058104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_50
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0193f26dc7d93b90800000000000000
+      internalID: -7261535647029817073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_51
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 9
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39347dd58faf7b10800000000000000
+      internalID: 1981495350547200316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_52
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a90ffdea3744a50800000000000000
+      internalID: 6504450956748429982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_53
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 5
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41198403389abc0800000000000000
+      internalID: -3771338969546943265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_54
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b44ae7918195f30800000000000000
+      internalID: 4564706195094653795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_55
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb5bef100ab1090800000000000000
+      internalID: -8062674777448006225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 4_56
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ff562972d1191d0800000000000000
+      internalID: -3345860992362479776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Air 4_0: -3874930803479604218
+      Air 4_1: -4905145104505630940
+      Air 4_10: 7160930482101081332
+      Air 4_11: 8855971583766239348
+      Air 4_12: 7423002842403829397
+      Air 4_13: -1530198834412966649
+      Air 4_14: 3596941133252937504
+      Air 4_15: 2968922649223267856
+      Air 4_16: 6085119146550867209
+      Air 4_17: 679110584426740306
+      Air 4_18: 7206999682710663389
+      Air 4_19: 4777848214699901591
+      Air 4_2: -8261566809525174266
+      Air 4_20: 4412728780816188587
+      Air 4_21: -5351617347546199633
+      Air 4_22: 4836660018889390900
+      Air 4_23: 8070703193197197846
+      Air 4_24: 8101738093471079134
+      Air 4_25: -8668740102973557659
+      Air 4_26: 2603419688867727754
+      Air 4_27: -1474321590488368888
+      Air 4_28: 8535316518067851728
+      Air 4_29: 7532353311968725205
+      Air 4_3: 1780456356913966026
+      Air 4_30: -2338743530766816942
+      Air 4_31: 1407163856094775444
+      Air 4_32: -1664128238489905222
+      Air 4_33: 9117626508351097730
+      Air 4_34: -1291862933577173140
+      Air 4_35: -4850444532162697453
+      Air 4_36: -112044649331666384
+      Air 4_37: -5624690395988859509
+      Air 4_38: -4763116156558208806
+      Air 4_39: 392447534707342316
+      Air 4_4: 3160270361258573847
+      Air 4_40: -647921505990946572
+      Air 4_41: -5973708870853132435
+      Air 4_42: -3710615048766506145
+      Air 4_43: 431425309834568360
+      Air 4_44: 2512291319933039188
+      Air 4_45: -596708375986685665
+      Air 4_46: -7692345480904088180
+      Air 4_47: -139533024443107466
+      Air 4_48: -7330969231354697678
+      Air 4_49: 7986877010129058104
+      Air 4_5: -8485945788100622033
+      Air 4_50: -7261535647029817073
+      Air 4_51: 1981495350547200316
+      Air 4_52: 6504450956748429982
+      Air 4_53: -3771338969546943265
+      Air 4_54: 4564706195094653795
+      Air 4_55: -8062674777448006225
+      Air 4_56: -3345860992362479776
+      Air 4_6: -3796869640087895456
+      Air 4_7: 5494165133143674467
+      Air 4_8: 1694972952768903234
+      Air 4_9: -5443176120922081495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

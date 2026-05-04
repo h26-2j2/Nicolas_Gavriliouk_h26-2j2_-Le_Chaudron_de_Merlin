@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: b039bcffbb4851c4692290492348248d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4185868900096575988
+    second: Air 6_0
+  - first:
+      213: -7018210328801591688
+    second: Air 6_1
+  - first:
+      213: -8364888677180526940
+    second: Air 6_2
+  - first:
+      213: 5845580777290822495
+    second: Air 6_3
+  - first:
+      213: 2326521080952442049
+    second: Air 6_4
+  - first:
+      213: 248308314078891486
+    second: Air 6_5
+  - first:
+      213: -5757319215168429989
+    second: Air 6_6
+  - first:
+      213: 8014493134248141347
+    second: Air 6_7
+  - first:
+      213: 9111140411037207465
+    second: Air 6_8
+  - first:
+      213: -3642363498797341862
+    second: Air 6_9
+  - first:
+      213: -72079558306982314
+    second: Air 6_10
+  - first:
+      213: 7778300382844640402
+    second: Air 6_11
+  - first:
+      213: -4571306412327794068
+    second: Air 6_12
+  - first:
+      213: 3387189736490300480
+    second: Air 6_13
+  - first:
+      213: 6654415723485002769
+    second: Air 6_14
+  - first:
+      213: -682691934030474552
+    second: Air 6_15
+  - first:
+      213: -1785802489301780107
+    second: Air 6_16
+  - first:
+      213: -7227138302167207656
+    second: Air 6_17
+  - first:
+      213: 1163605863027725912
+    second: Air 6_18
+  - first:
+      213: -7254220503163412002
+    second: Air 6_19
+  - first:
+      213: 5603665208644100963
+    second: Air 6_20
+  - first:
+      213: 6634490267427709951
+    second: Air 6_21
+  - first:
+      213: -4341974011305836326
+    second: Air 6_22
+  - first:
+      213: 7169007631622232145
+    second: Air 6_23
+  - first:
+      213: -6548494939188877449
+    second: Air 6_24
+  - first:
+      213: -3863224027061341789
+    second: Air 6_25
+  - first:
+      213: -1327209024300350254
+    second: Air 6_26
+  - first:
+      213: -4039975026126110347
+    second: Air 6_27
+  - first:
+      213: 5731366395401145410
+    second: Air 6_28
+  - first:
+      213: 4781445358148885983
+    second: Air 6_29
+  - first:
+      213: 1080873495552431448
+    second: Air 6_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air 6_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 62
+        width: 69
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f98c924691371a30800000000000000
+      internalID: 4185868900096575988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 67
+        width: 70
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ebdc8d3ee4a9e90800000000000000
+      internalID: -7018210328801591688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 67
+        width: 78
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aea7f23112f9eb80800000000000000
+      internalID: -8364888677180526940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 96
+        width: 61
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f537548eebcaf1150800000000000000
+      internalID: 5845580777290822495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_6
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 143
+        width: 63
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ea596da4e910b0800000000000000
+      internalID: -5757319215168429989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 15
+        width: 63
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322eaa10b03393f60800000000000000
+      internalID: 8014493134248141347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 66
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab44925ee5417e70800000000000000
+      internalID: 9111140411037207465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 11
+        width: 45
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0447a568e17b10f20800000000000000
+      internalID: 3387189736490300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 5
+        width: 33
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e69a03e4d35b90800000000000000
+      internalID: -7254220503163412002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 12
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9765583b1b5240800000000000000
+      internalID: 4781445358148885983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 6_4
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 49
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db2b6df65e72cd4e929c5eaf88b7448
+      internalID: 2326521080952442049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20f362476cd963146a1c5ed48d714172
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Air 6_0: 4185868900096575988
+      Air 6_1: -7018210328801591688
+      Air 6_10: -72079558306982314
+      Air 6_11: 7778300382844640402
+      Air 6_12: -4571306412327794068
+      Air 6_13: 3387189736490300480
+      Air 6_14: 6654415723485002769
+      Air 6_15: -682691934030474552
+      Air 6_16: -1785802489301780107
+      Air 6_17: -7227138302167207656
+      Air 6_18: 1163605863027725912
+      Air 6_19: -7254220503163412002
+      Air 6_2: -8364888677180526940
+      Air 6_20: 5603665208644100963
+      Air 6_21: 6634490267427709951
+      Air 6_22: -4341974011305836326
+      Air 6_23: 7169007631622232145
+      Air 6_24: -6548494939188877449
+      Air 6_25: -3863224027061341789
+      Air 6_26: -1327209024300350254
+      Air 6_27: -4039975026126110347
+      Air 6_28: 5731366395401145410
+      Air 6_29: 4781445358148885983
+      Air 6_3: 5845580777290822495
+      Air 6_30: 1080873495552431448
+      Air 6_4: 2326521080952442049
+      Air 6_5: 248308314078891486
+      Air 6_6: -5757319215168429989
+      Air 6_7: 8014493134248141347
+      Air 6_8: 9111140411037207465
+      Air 6_9: -3642363498797341862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

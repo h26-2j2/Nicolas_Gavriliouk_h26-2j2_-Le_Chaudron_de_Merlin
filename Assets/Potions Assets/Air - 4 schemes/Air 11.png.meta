@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 7150ccc11c5d2da499607fc518fccd74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1716518293455791476
+    second: Air 11_0
+  - first:
+      213: -961528583275356465
+    second: Air 11_1
+  - first:
+      213: 4970785868452810983
+    second: Air 11_2
+  - first:
+      213: -1931299845550989379
+    second: Air 11_3
+  - first:
+      213: 3277974383147903408
+    second: Air 11_4
+  - first:
+      213: -3742412881796529907
+    second: Air 11_5
+  - first:
+      213: -1445641936720149138
+    second: Air 11_6
+  - first:
+      213: -6110489842247187847
+    second: Air 11_7
+  - first:
+      213: -1196407283674476194
+    second: Air 11_8
+  - first:
+      213: 1785871023097583628
+    second: Air 11_9
+  - first:
+      213: -1370256303261120528
+    second: Air 11_10
+  - first:
+      213: -4700184004453561516
+    second: Air 11_11
+  - first:
+      213: 6377526594287390839
+    second: Air 11_12
+  - first:
+      213: -2638578155316639413
+    second: Air 11_13
+  - first:
+      213: 3497452479616298689
+    second: Air 11_14
+  - first:
+      213: -7270291250318746482
+    second: Air 11_15
+  - first:
+      213: 919675922105695083
+    second: Air 11_16
+  - first:
+      213: 5459881939431653983
+    second: Air 11_17
+  - first:
+      213: -8381458896244249479
+    second: Air 11_18
+  - first:
+      213: -8281300697403750600
+    second: Air 11_19
+  - first:
+      213: -9101782930956205227
+    second: Air 11_20
+  - first:
+      213: 1253577554676644518
+    second: Air 11_21
+  - first:
+      213: 7137800305374452999
+    second: Air 11_22
+  - first:
+      213: -1975186833923211374
+    second: Air 11_23
+  - first:
+      213: -2553523466845137279
+    second: Air 11_24
+  - first:
+      213: 5721413261674717297
+    second: Air 11_25
+  - first:
+      213: -2935301071882512980
+    second: Air 11_26
+  - first:
+      213: -3535709180842309251
+    second: Air 11_27
+  - first:
+      213: 7650389022983614308
+    second: Air 11_28
+  - first:
+      213: 8584951975543262113
+    second: Air 11_29
+  - first:
+      213: 5130198804617256569
+    second: Air 11_30
+  - first:
+      213: 6253631650451034817
+    second: Air 11_31
+  - first:
+      213: 5129745596395919324
+    second: Air 11_32
+  - first:
+      213: 3925597024329309169
+    second: Air 11_33
+  - first:
+      213: -1209078366489031746
+    second: Air 11_34
+  - first:
+      213: -2642512439477476757
+    second: Air 11_35
+  - first:
+      213: -4097584250630009969
+    second: Air 11_36
+  - first:
+      213: 8575374964533074640
+    second: Air 11_37
+  - first:
+      213: 7383373287220701459
+    second: Air 11_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air 11_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 92
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47564eb1b4c42d710800000000000000
+      internalID: 1716518293455791476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcedc7019d6f7a2f0800000000000000
+      internalID: -961528583275356465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 44
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e059a73967cbf440800000000000000
+      internalID: 4970785868452810983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 39
+        width: 158
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf9a2fd505a235e0800000000000000
+      internalID: -1931299845550989379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 30
+        width: 114
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b96c528554bd7d20800000000000000
+      internalID: 3277974383147903408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_5
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 94
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010ca9ef47401cc0800000000000000
+      internalID: -3742412881796529907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_6
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 23
+        width: 48
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654361615c00fbe0800000000000000
+      internalID: -1445641936720149138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_7
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 150
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972493dfcdd233ba0800000000000000
+      internalID: -6110489842247187847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_8
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 150
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5194e11ae1856fe0800000000000000
+      internalID: -1196407283674476194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 141
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08156acb30b8c810800000000000000
+      internalID: 1785871023097583628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_10
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 153
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f781e0f62fdbfce0800000000000000
+      internalID: -1370256303261120528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_11
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 151
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b8293fc8795ceb0800000000000000
+      internalID: -4700184004453561516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_12
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 153
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705b1ed5a6818850800000000000000
+      internalID: 6377526594287390839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_13
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 8
+        width: 222
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490f34c523e16bd0800000000000000
+      internalID: -2638578155316639413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 5
+        width: 144
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea65aff72798030800000000000000
+      internalID: 3497452479616298689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_15
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 134
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cde13a0acba1b90800000000000000
+      internalID: -7270291250318746482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_16
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 87
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf695e06853cc00800000000000000
+      internalID: 919675922105695083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_17
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 110
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52056b32b565cb40800000000000000
+      internalID: 5459881939431653983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_18
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 141
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce2dd6a831fab80800000000000000
+      internalID: -8381458896244249479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 8
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370e0554e8e21d80800000000000000
+      internalID: -8281300697403750600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_20
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 104
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55344a9c5a8ffa180800000000000000
+      internalID: -9101782930956205227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_21
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 116
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa77ece42a956110800000000000000
+      internalID: 1253577554676644518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_22
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 60
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd48f5f8f8e0360800000000000000
+      internalID: 7137800305374452999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_23
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 61
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f7afe1a0ab694e0800000000000000
+      internalID: -1975186833923211374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 65
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865211afef009cd0800000000000000
+      internalID: -2553523466845137279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_25
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 51
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170a4535c0b866f40800000000000000
+      internalID: 5721413261674717297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_26
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca59e9d1a37b347d0800000000000000
+      internalID: -2935301071882512980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_27
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3
+        width: 113
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798ec6ab33aeeec0800000000000000
+      internalID: -3535709180842309251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f6c7c6844ab2a60800000000000000
+      internalID: 7650389022983614308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_29
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab4b043650e32770800000000000000
+      internalID: 8584951975543262113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_30
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5850c1a0223740800000000000000
+      internalID: 5130198804617256569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_31
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 19
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c216495adc59c650800000000000000
+      internalID: 6253631650451034817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_32
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd79d4df074803740800000000000000
+      internalID: 5129745596395919324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_33
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 18
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9a76e1b58a7630800000000000000
+      internalID: 3925597024329309169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_34
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 34
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbcfc3b1ad783fe0800000000000000
+      internalID: -1209078366489031746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_35
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 19
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e46adfe8e35bd0800000000000000
+      internalID: -2642512439477476757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_36
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 0
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b86ff75d47227c0800000000000000
+      internalID: -4097584250630009969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_37
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 16
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da95c0981ad10770800000000000000
+      internalID: 8575374964533074640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 11_38
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 0
+        width: 113
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319e5ecc2e2077660800000000000000
+      internalID: 7383373287220701459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Air 11_0: 1716518293455791476
+      Air 11_1: -961528583275356465
+      Air 11_10: -1370256303261120528
+      Air 11_11: -4700184004453561516
+      Air 11_12: 6377526594287390839
+      Air 11_13: -2638578155316639413
+      Air 11_14: 3497452479616298689
+      Air 11_15: -7270291250318746482
+      Air 11_16: 919675922105695083
+      Air 11_17: 5459881939431653983
+      Air 11_18: -8381458896244249479
+      Air 11_19: -8281300697403750600
+      Air 11_2: 4970785868452810983
+      Air 11_20: -9101782930956205227
+      Air 11_21: 1253577554676644518
+      Air 11_22: 7137800305374452999
+      Air 11_23: -1975186833923211374
+      Air 11_24: -2553523466845137279
+      Air 11_25: 5721413261674717297
+      Air 11_26: -2935301071882512980
+      Air 11_27: -3535709180842309251
+      Air 11_28: 7650389022983614308
+      Air 11_29: 8584951975543262113
+      Air 11_3: -1931299845550989379
+      Air 11_30: 5130198804617256569
+      Air 11_31: 6253631650451034817
+      Air 11_32: 5129745596395919324
+      Air 11_33: 3925597024329309169
+      Air 11_34: -1209078366489031746
+      Air 11_35: -2642512439477476757
+      Air 11_36: -4097584250630009969
+      Air 11_37: 8575374964533074640
+      Air 11_38: 7383373287220701459
+      Air 11_4: 3277974383147903408
+      Air 11_5: -3742412881796529907
+      Air 11_6: -1445641936720149138
+      Air 11_7: -6110489842247187847
+      Air 11_8: -1196407283674476194
+      Air 11_9: 1785871023097583628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

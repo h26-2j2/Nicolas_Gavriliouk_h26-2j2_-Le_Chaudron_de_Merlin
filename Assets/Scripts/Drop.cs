@@ -25,20 +25,21 @@ public class Drop : MonoBehaviour
         // Parmi les deux "slots", il y a un qui est vrai. Ceci determine si c'est le premier. 
         if (estPremierSlot)
         {
-            calculateur.RecevoirPremierNombre(valeur);
             gestionNiveauPotions.potionGauche = objectDeplace;
+            calculateur.RecevoirPremierNombre(valeur);         
         }
-
         else
         {
-            calculateur.RecevoirDeuxiemeNombre(valeur);
             gestionNiveauPotions.potionDroite = objectDeplace;
+            calculateur.RecevoirDeuxiemeNombre(valeur);
         }
 
 
-        objectDeplace.transform.SetParent(this.transform);
+        objectDeplace.transform.SetParent(this.transform,false);
+        objectDeplace.transform.localScale = Vector3.one;
         objectDeplace.transform.localPosition = Vector3.zero;
-
+        objectDeplace.GetComponent<HoverScale>().RefreshScale();
+       
 
         Debug.Log("Valeur reçue : " + valeur);
         //  On n'a pâs encore appris comment faire des instances :(
