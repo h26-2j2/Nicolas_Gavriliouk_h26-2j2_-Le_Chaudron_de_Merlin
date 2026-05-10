@@ -17,13 +17,17 @@ public class SmokeEffect : MonoBehaviour
 
         sr.enabled = false;
     }
-
+    private void Proot()
+    {
+    Debug.Log("Proot"); 
+    }
     public void Smoke()
     {
             sr.enabled = true; 
             anim.SetTrigger("PlaySmoke");
             audioSource.PlayOneShot(smokeSound);
             Invoke("HideSmoke", 1f);
+            Proot();
     }
 
     void HideSmoke()
@@ -31,3 +35,4 @@ public class SmokeEffect : MonoBehaviour
     sr.enabled = false;
 }
 }
+

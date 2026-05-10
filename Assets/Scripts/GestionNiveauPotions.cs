@@ -7,4 +7,6 @@ public GameObject potionGauche;
 public GameObject potionDroite;
 
 public GameObject Smoke;
+
+public PotionChangeur potionChangeur;
 }

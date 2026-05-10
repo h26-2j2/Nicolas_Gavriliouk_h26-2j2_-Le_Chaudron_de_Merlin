@@ -9,3 +9,4 @@ public class ResetScene : MonoBehaviour
         SceneManager.LoadScene(currentScene.name);
     }
 }
+

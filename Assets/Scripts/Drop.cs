@@ -6,7 +6,7 @@ public class Drop : MonoBehaviour
     public Calculateur calculateur;
     public bool estPremierSlot;
     public GestionNiveauPotions gestionNiveauPotions;
-
+    public float offset;
     public void AuDrop(BaseEventData baseEventData)
     {
         PointerEventData pointerEventData = baseEventData as PointerEventData;
@@ -37,7 +37,7 @@ public class Drop : MonoBehaviour
 
         objectDeplace.transform.SetParent(this.transform,false);
         objectDeplace.transform.localScale = Vector3.one;
-        objectDeplace.transform.localPosition = Vector3.zero;
+        objectDeplace.transform.localPosition = new Vector3(0,offset,0);
         objectDeplace.GetComponent<HoverScale>().RefreshScale();
        
 

@@ -55,7 +55,10 @@ private void Update() {
         resultat = factor1 * factor2;
         Debug.Log("Résultat Final : " + resultat);
          
-
+if(resultat < 1000)
+        {
+            
+        
         GameObject clone = Instantiate(
             PotionPrefab,
             pointCreation.transform.position,
@@ -65,6 +68,13 @@ private void Update() {
 
         clone.GetComponent<Nombres>().factor = resultat;
 
+
+        if (resultat > 10)
+        {
+        Debug.Log("Potion changed");
+        clone.GetComponent<PotionChangeur>().ChangePotion(2);
+        }
+
         gestionNiveauPotions.potionGauche.transform.SetParent(gestionNiveauPotions.listePotions, true);
         gestionNiveauPotions.potionDroite.transform.SetParent(gestionNiveauPotions.listePotions, true);
 
@@ -73,10 +83,14 @@ private void Update() {
 
         gestionNiveauPotions.Smoke.GetComponent<SmokeEffect>().Smoke();
 
+
         factor1 = 0;
         factor2 = 0;
         RebuildLayout();
-    
+    } else
+        {
+            
+        }
         
     
 }

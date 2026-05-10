@@ -278,12 +278,12 @@ TextureImporter:
       name: potion_type_1 [Converted]_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 484
-        width: 80
-        height: 168
-      alignment: 9
-      pivot: {x: 0.5, y: 0.37202382}
+        x: 5
+        y: 500
+        width: 70
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -300,12 +300,12 @@ TextureImporter:
       name: potion_type_1 [Converted]_13
       rect:
         serializedVersion: 2
-        x: 110
-        y: 484
-        width: 80
-        height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 115
+        y: 500
+        width: 70
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -322,12 +322,12 @@ TextureImporter:
       name: potion_type_1 [Converted]_14
       rect:
         serializedVersion: 2
-        x: 324
-        y: 484
-        width: 81
-        height: 168
-      alignment: 9
-      pivot: {x: 0.49382716, y: 0.37202382}
+        x: 329
+        y: 500
+        width: 70
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -344,12 +344,12 @@ TextureImporter:
       name: potion_type_1 [Converted]_15
       rect:
         serializedVersion: 2
-        x: 434
-        y: 484
-        width: 80
-        height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 500
+        width: 70
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -366,10 +366,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_16
       rect:
         serializedVersion: 2
-        x: 648
-        y: 484
-        width: 81
-        height: 168
+        x: 653
+        y: 500
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_17
       rect:
         serializedVersion: 2
-        x: 758
-        y: 484
-        width: 81
-        height: 125
+        x: 763
+        y: 500
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_18
       rect:
         serializedVersion: 2
-        x: 931
-        y: 484
-        width: 81
-        height: 168
+        x: 937
+        y: 500
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_19
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 484
-        width: 81
-        height: 125
+        x: 1046
+        y: 500
+        width: 71
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 237
-        width: 80
-        height: 168
+        x: 5
+        y: 253
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_33
       rect:
         serializedVersion: 2
-        x: 110
-        y: 234
-        width: 80
-        height: 128
+        x: 115
+        y: 253
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_34
       rect:
         serializedVersion: 2
-        x: 324
-        y: 237
-        width: 81
-        height: 168
+        x: 329
+        y: 253
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_35
       rect:
         serializedVersion: 2
-        x: 434
-        y: 237
-        width: 80
-        height: 125
+        x: 439
+        y: 253
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_36
       rect:
         serializedVersion: 2
-        x: 648
-        y: 237
-        width: 81
-        height: 168
+        x: 653
+        y: 253
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +564,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_37
       rect:
         serializedVersion: 2
-        x: 758
-        y: 237
-        width: 81
-        height: 125
+        x: 763
+        y: 253
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +586,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_38
       rect:
         serializedVersion: 2
-        x: 931
-        y: 237
-        width: 81
-        height: 168
+        x: 937
+        y: 253
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +608,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_39
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 237
-        width: 81
-        height: 125
+        x: 1046
+        y: 253
+        width: 71
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +630,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_49
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 80
-        height: 168
+        x: 5
+        y: 16
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +652,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_50
       rect:
         serializedVersion: 2
-        x: 110
-        y: 0
-        width: 80
-        height: 125
+        x: 115
+        y: 16
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +674,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_51
       rect:
         serializedVersion: 2
-        x: 324
-        y: 0
-        width: 81
-        height: 169
+        x: 329
+        y: 16
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +696,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_52
       rect:
         serializedVersion: 2
-        x: 434
-        y: 0
-        width: 80
-        height: 125
+        x: 439
+        y: 16
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_53
       rect:
         serializedVersion: 2
-        x: 648
-        y: 0
-        width: 81
-        height: 169
+        x: 653
+        y: 16
+        width: 70
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +740,10 @@ TextureImporter:
       name: potion_type_1 [Converted]_54
       rect:
         serializedVersion: 2
-        x: 758
-        y: 0
-        width: 81
-        height: 125
+        x: 763
+        y: 16
+        width: 70
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
