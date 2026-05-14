@@ -6,13 +6,25 @@ public class PotionChangeur : MonoBehaviour
 
     public Sprite[] potionFrames;
 
+    private Nombres nombres;
+
+
+
+    void Awake() {
+        nombres = GetComponent<Nombres>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+    
     void Start()
     {
-        // ChangePotion(0);
+         int index = (int)nombres.factor - 1;
+         index = Mathf.Clamp(index, 0, potionFrames.Length - 1);
+        ChangePotion(index);
     }
 
     public void ChangePotion(int index)
     {
+
         spriteRenderer.sprite = potionFrames[index];
     }
 

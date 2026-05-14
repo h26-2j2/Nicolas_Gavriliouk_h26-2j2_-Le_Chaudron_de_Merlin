@@ -55,7 +55,7 @@ private void Update() {
         resultat = factor1 * factor2;
         Debug.Log("Résultat Final : " + resultat);
          
-if(resultat < 1000)
+if(resultat < 100)
         {
             
         
@@ -69,11 +69,11 @@ if(resultat < 1000)
         clone.GetComponent<Nombres>().factor = resultat;
 
 
-        if (resultat > 10)
-        {
+        
         Debug.Log("Potion changed");
-        clone.GetComponent<PotionChangeur>().ChangePotion(2);
-        }
+        float image = resultat - 1f;
+        clone.GetComponent<PotionChangeur>().ChangePotion((int)image);
+        
 
         gestionNiveauPotions.potionGauche.transform.SetParent(gestionNiveauPotions.listePotions, true);
         gestionNiveauPotions.potionDroite.transform.SetParent(gestionNiveauPotions.listePotions, true);
