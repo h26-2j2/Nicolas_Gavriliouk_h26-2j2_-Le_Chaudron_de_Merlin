@@ -43,7 +43,7 @@ public class Calculateur : MonoBehaviour
     void Calculer()
 
     {
-        resultat = (factor1 * factor2) - modificateur;
+        resultat = (factor1 * factor2) + modificateur;
         Debug.Log("Résultat Final : " + resultat);
 
         if (resultat < 100)
