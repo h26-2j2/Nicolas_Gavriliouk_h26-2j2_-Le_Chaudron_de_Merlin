@@ -22,13 +22,9 @@ Rigidbody2D rigidbody2D;
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         gestionNiveauPotions = GameObject.FindObjectOfType<GestionNiveauPotions>();;
-        // positionInitiale = transform.position;
-        
-        // parentInitial = transform.listePotions; // le parent est just la hierarchy de unity ou root
-        transform.SetParent(gestionNiveauPotions.listePotions, false);
+        // transform.SetParent(gestionNiveauPotions.listePotions, false);
         collider = GetComponent<Collider2D>();
         audiosource = GetComponent<AudioSource>();
-
         calculateur = GameObject.FindAnyObjectByType<Calculateur>();
 
         

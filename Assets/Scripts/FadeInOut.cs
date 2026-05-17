@@ -6,7 +6,7 @@ public class FadeInOut : MonoBehaviour
     public Animator fadeAnim;
     void Start()
     {
-            Debug.Log("Start is running!");
+            // Debug.Log("Start is running");
         fadeAnim.SetTrigger("FadeIn");
     }
 
