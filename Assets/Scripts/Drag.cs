@@ -15,7 +15,7 @@ public class Drag : MonoBehaviour
     // Vector3 positionInitiale;
     GestionNiveauPotions gestionNiveauPotions;
     Collider2D collider;
-Rigidbody2D rigidbody2D;
+    Rigidbody2D rigidbody2D;
     //   Transform ListePotions;
     
     void Start()
@@ -63,8 +63,6 @@ Rigidbody2D rigidbody2D;
             {
                 
             }
-
-           
 
         }
 

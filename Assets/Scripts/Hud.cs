@@ -8,30 +8,37 @@ public class Hud : MonoBehaviour
 
     public TMP_Text texteCible;
     public TMP_Text texteMove;
+    public TMP_Text texteReussi;
 
     public Calculateur calculateur;
 
     public float resultat;
 
+    public GameObject VictoireCanvas;
 
     void Start()
     {
-        texteMove.text = $"Mouvement: {move}";
+        VictoireCanvas.SetActive(false);
+        texteMove.text = $"Coups: {move}";
         texteCible.text = $"Cible: {cible}";
     }
     public void AjouterMouvement()
     {
         move++;
 
-        texteMove.text = $"Mouvement: {move}";
+        texteMove.text = $"Coups: {move}";
     }
-    private void Update() {
+    private void Update()
+    {
         resultat = calculateur.resultat;
 
-    if (resultat == cible) 
-    {
-        Debug.Log("Victoire");
-    }
+        if (resultat == cible)
+        {
+            Debug.Log("Victoire");
+            // Debugger();
+            VictoireCanvas.SetActive(true);
+            texteReussi.text = $"Bravo!  Tu as réussi ce niveau en {move} coups.";
+        }
 
 
     }

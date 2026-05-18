@@ -1,2 +1,15 @@
 fileFormatVersion: 2
 guid: 52ea3ed653bc15a4bb9312c1cb6d98b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - texteCible: {instanceID: 0}
+  - texteMove: {instanceID: 0}
+  - calculateur: {instanceID: 0}
+  - VictoireCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,11 +9,13 @@ public class DragFrog : MonoBehaviour
     public float modifier;
 
     public TMP_FontAsset LaPolice;
+      public AudioClip sonPotion;
       public TMP_Text texteModifier;
+      AudioSource audioSource;
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
-
+        audioSource = GetComponent<AudioSource>();
         texteModifier = GetComponentInChildren<TMP_Text>();
 
 
@@ -53,6 +55,8 @@ public class DragFrog : MonoBehaviour
             rigidbody2D.bodyType = RigidbodyType2D.Kinematic;
         }
 
+        audioSource.PlayOneShot(sonPotion);
+        
         PointerEventData pointerEventData = baseEventData as PointerEventData;
         Vector3 positionCurseur = Camera.main.ScreenToWorldPoint(pointerEventData.position);
         positionCurseur.z = 0;

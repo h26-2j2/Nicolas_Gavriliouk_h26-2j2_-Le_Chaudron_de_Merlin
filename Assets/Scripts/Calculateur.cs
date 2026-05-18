@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using TMPro;
 
 public class Calculateur : MonoBehaviour
 {
@@ -18,6 +19,12 @@ public class Calculateur : MonoBehaviour
 
     private bool isCalculating = false;
 
+    private bool messageEnCours = false;
+
+    public TMP_Text texteTrop;
+
+
+
     public void RecevoirPremierNombre(float valeur)
     {
         Debug.Log("Premier nombre reçu = " + valeur);
@@ -30,6 +37,10 @@ public class Calculateur : MonoBehaviour
         factor2 = valeur;
     }
 
+    private void Start()
+    {
+        texteTrop.gameObject.SetActive(false);
+    }
     private void Update()
     {
         int nombresDePotions = gestionNiveauPotions.listePotions.transform.childCount;
@@ -64,8 +75,8 @@ public class Calculateur : MonoBehaviour
 
             gestionNiveauPotions.Smoke.GetComponent<SmokeEffect>().Smoke();
             bulles.StartTirBulle();
-
-            yield return new WaitForSeconds(3f);
+            Hud.AjouterMouvement();
+            yield return new WaitForSeconds(2.5f);
 
             clone.transform.SetParent(gestionNiveauPotions.listePotions,
                 true);
@@ -83,7 +94,7 @@ public class Calculateur : MonoBehaviour
             gestionNiveauPotions.potionGauche = null;
             gestionNiveauPotions.potionDroite = null;
 
-            Hud.AjouterMouvement();
+
 
             factor1 = 0;
             factor2 = 0;
@@ -91,9 +102,15 @@ public class Calculateur : MonoBehaviour
 
             RebuildLayout();
         }
-        else
+
+
+        if (resultat > 100)
         {
-            Debug.Log("too much");
+            texteTrop.gameObject.SetActive(true);
+
+            
+            Invoke("MessageTemporaire", 3f);
+
         }
 
         isCalculating = false;
@@ -104,5 +121,36 @@ public class Calculateur : MonoBehaviour
         LayoutRebuilder.ForceRebuildLayoutImmediate(
             gestionNiveauPotions.listePotions.GetComponent<RectTransform>()
         );
+    }
+
+
+
+    public void MessageTemporaire()
+    {
+        texteTrop.gameObject.SetActive(false);
+
+    factor1 = 0;
+    factor2 = 0;
+    // resultat = 0;
+
+    if (gestionNiveauPotions.potionGauche != null)
+    {
+        gestionNiveauPotions.potionGauche.transform.SetParent(
+            gestionNiveauPotions.listePotions,
+            true
+        );
+
+        gestionNiveauPotions.potionGauche = null;
+    }
+
+    if (gestionNiveauPotions.potionDroite != null)
+    {
+        gestionNiveauPotions.potionDroite.transform.SetParent(
+            gestionNiveauPotions.listePotions,
+            true
+        );
+
+        gestionNiveauPotions.potionDroite = null;
+    }
     }
 }
