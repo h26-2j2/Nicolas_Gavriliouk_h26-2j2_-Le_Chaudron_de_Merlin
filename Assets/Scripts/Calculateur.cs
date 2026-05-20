@@ -18,12 +18,12 @@ public class Calculateur : MonoBehaviour
     public float modificateur = 0;
 
     private bool isCalculating = false;
-    private bool messageEnCours = false;
+    
 
     public TMP_Text texteTrop;
     public TMP_Text texteModificateur;
 
-
+    public Voix voix;
     // C'est sans doute la partie la plus difficile et la plus complexe du code de mon jeu.
 
 
@@ -89,6 +89,8 @@ public class Calculateur : MonoBehaviour
     IEnumerator Calculer()
     {
         isCalculating = true;
+
+        voix.JoueVoixVictoire();
 
         // Calcule le résultat final avec les deux facteurs et le modificateur
         resultat = (factor1 * factor2) + modificateur;

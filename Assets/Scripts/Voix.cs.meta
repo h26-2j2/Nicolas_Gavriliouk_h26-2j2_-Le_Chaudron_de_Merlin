@@ -1,2 +1,21 @@
 fileFormatVersion: 2
 guid: 1d0b61e99fb36c4448113641831d7f49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - bienvenue: {fileID: 8300000, guid: fced00de418d2b04389887441c9667b8, type: 3}
+  - multiplication: {fileID: 8300000, guid: ad5513bff906e364989d8ae2cee35fb1, type: 3}
+  - pratique: {instanceID: 0}
+  - reflexion: {fileID: 8300000, guid: 6e29be9aa43f3824b9506f1bc292b40a, type: 3}
+  - succes: {instanceID: 0}
+  - brillant: {fileID: 8300000, guid: fd96cbd0291906142a72465df07fcdc3, type: 3}
+  - compterSurToi: {fileID: 8300000, guid: 238e5e0ce05aefe49a257be275640023, type: 3}
+  - defi: {instanceID: 0}
+  - solutions: {fileID: 8300000, guid: 1108f4f0d6f7486479e7d14a8b967539, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

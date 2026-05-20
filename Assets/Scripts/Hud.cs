@@ -15,7 +15,7 @@ public class Hud : MonoBehaviour
     public float resultat;
 
     public GameObject VictoireCanvas;
-
+     public Voix voix;
     // Initialise l'interface du HUD au début du niveau
     void Start()
     {
@@ -44,7 +44,7 @@ public class Hud : MonoBehaviour
         // Si le résultat du calcul est égal à la cible, le joueur gagne
         if (resultat == cible)
         {
-
+            voix.reussi = true;
             // Affiche l'écran de victoire
             VictoireCanvas.SetActive(true);
 
