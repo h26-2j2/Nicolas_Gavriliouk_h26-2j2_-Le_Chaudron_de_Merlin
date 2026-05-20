@@ -9,23 +9,28 @@ public class DragFrog : MonoBehaviour
     public float modifier;
 
     public TMP_FontAsset LaPolice;
-      public AudioClip sonPotion;
-      public TMP_Text texteModifier;
-      AudioSource audioSource;
+    public AudioClip sonPotion;
+    public TMP_Text texteModifier;
+    AudioSource audioSource;
+
+    // Initialise les éléments nécessaires et configure l'affichage du modificateur
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         audioSource = GetComponent<AudioSource>();
         texteModifier = GetComponentInChildren<TMP_Text>();
 
-
+        // Affiche le modificateur avec un "+" s'il est positif
         if (modifier > 0)
         {
             texteModifier.text = $" +{modifier}";
-        } else
+        }
+        else
         {
             texteModifier.text = $"{modifier}";
         }
+
+        // J'ai dû recourir à l'IA pour trouver le code exact permettant d'accéder aux textes de manière plus manuelle, car je n'arrivais pas, pour une raison quelconque, à les configurer différemment dans le préfabriqué ; j'ai donc décidé de le faire manuellement, même si c'était « maudit ».
         
         texteModifier.fontSize = 8f;
         texteModifier.font = LaPolice;
@@ -44,25 +49,28 @@ public class DragFrog : MonoBehaviour
             ShaderUtilities.ID_UnderlayColor,
             Color.clear
         );
-
-        // texteModifier.transform.localPosition = new Vector3(0f, 0.2f, 0f);
     }
 
+    // Déclenche le début du drag : l'objet se prépare à être déplacé
     public void AuDebutDrag(BaseEventData baseEventData)
     {
+        // Passe l'objet en mode Kinematic pour qu'il suive le curseur proprement
         if (rigidbody2D != null)
         {
             rigidbody2D.bodyType = RigidbodyType2D.Kinematic;
         }
 
+        // Joue un son quand la potion est prise
         audioSource.PlayOneShot(sonPotion);
-        
+
+        // Récupère la position du curseur dans le monde du jeu
         PointerEventData pointerEventData = baseEventData as PointerEventData;
         Vector3 positionCurseur = Camera.main.ScreenToWorldPoint(pointerEventData.position);
         positionCurseur.z = 0;
         targetPosition = positionCurseur;
     }
 
+    // Met à jour la position cible pendant qu'on glisse l'objet
     public void AuDrag(BaseEventData baseEventData)
     {
         PointerEventData pointerEventData = baseEventData as PointerEventData;
@@ -71,16 +79,18 @@ public class DragFrog : MonoBehaviour
         targetPosition = positionCurseur;
     }
 
-    void FixedUpdate() 
+    // Déplace l'objet en continu pour qu'il suive bien la position voulue
+    void FixedUpdate()
     {
         if (rigidbody2D != null && rigidbody2D.bodyType == RigidbodyType2D.Kinematic)
         {
             rigidbody2D.MovePosition(targetPosition);
         }
 
-        // Ce code permet à l'objet de rester détectable à chaque image grâce à des collisions ou des triggers.
+        // Ce fonctionnement permet à l'objet de rester interactif pendant le déplacement.
     }
 
+    // Remet l'objet en mode normal quand on relâche le drag
     public void AuFinDrag(BaseEventData baseEventData)
     {
         if (rigidbody2D != null)

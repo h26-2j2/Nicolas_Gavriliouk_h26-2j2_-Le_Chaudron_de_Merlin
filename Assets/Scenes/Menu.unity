@@ -978,8 +978,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d46148538a8f6aa4eaeb555579471c7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GestionScene
-  sceneIntro: 
-  sceneJeu: 
   anim: {fileID: 0}
 --- !u!4 &722628074
 Transform:
@@ -1445,10 +1443,10 @@ MonoBehaviour:
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
-  m_characterSpacing: 10.76
+  m_characterSpacing: 2.12
   m_characterHorizontalScale: 1
-  m_wordSpacing: 8.36
-  m_lineSpacing: -1.16
+  m_wordSpacing: 7.59
+  m_lineSpacing: -0.03
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -1644,7 +1642,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 4e840ffb5049b9646be7c4bd2da61ad6, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.681
+  m_Volume: 0.45
   m_Pitch: 1.1
   Loop: 1
   Mute: 0
@@ -1735,9 +1733,9 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 722628074}
+  - {fileID: 748064189}
   - {fileID: 1958326751}
   - {fileID: 820739063}
-  - {fileID: 748064189}
   - {fileID: 463328525}
   - {fileID: 563106469}
   - {fileID: 616183537}

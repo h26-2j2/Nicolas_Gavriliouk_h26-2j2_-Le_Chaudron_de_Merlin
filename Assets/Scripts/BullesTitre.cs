@@ -10,7 +10,13 @@ public class BullesTitre : MonoBehaviour
 
     public float delaiEntreBulles = 1.2f;
 
-
+/*
+Ce script fonctionne de manière similaire au précédent, mais les bulles 
+sont créées automatiquement à répétition grâce à InvokeRepeating, une fonction 
+que j’ai appris et qui permet d’appeler automatiquement une fonction 
+après un délai de départ ET! de la répéter à intervalles réguliers. Chaque bulle 
+est ensuite détruite individuellement après quelques secondes.
+*/
     void Start()
     {
         InvokeRepeating("CreerBulle", 0f, delaiEntreBulles);

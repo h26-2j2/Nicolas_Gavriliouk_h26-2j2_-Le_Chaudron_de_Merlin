@@ -1496,7 +1496,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Revenir '
+  m_text: Retour
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 08cea06dd04d06e4e9790d8630b2d484, type: 2}
   m_sharedMaterial: {fileID: -1813558722336083871, guid: 08cea06dd04d06e4e9790d8630b2d484, type: 2}
