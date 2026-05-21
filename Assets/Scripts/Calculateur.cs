@@ -18,7 +18,8 @@ public class Calculateur : MonoBehaviour
     public float modificateur = 0;
 
     private bool isCalculating = false;
-    
+    private bool tropDejaJoue = false;
+
 
     public TMP_Text texteTrop;
     public TMP_Text texteModificateur;
@@ -27,7 +28,7 @@ public class Calculateur : MonoBehaviour
     // C'est sans doute la partie la plus difficile et la plus complexe du code de mon jeu.
 
 
-    
+
 
 
     // Reçoit le premier nombre choisi par le joueur
@@ -66,14 +67,14 @@ public class Calculateur : MonoBehaviour
         if (modificateur == 0)
         {
             texteModificateur.gameObject.SetActive(false);
-        } 
+        }
         else
         {
             texteModificateur.gameObject.SetActive(true);
 
             if (modificateur > 0)
             {
-                texteModificateur.text = $"+{modificateur}";    
+                texteModificateur.text = $"+{modificateur}";
             }
             else
             {
@@ -90,7 +91,7 @@ public class Calculateur : MonoBehaviour
     {
         isCalculating = true;
 
-        voix.JoueVoixVictoire();
+
 
         // Calcule le résultat final avec les deux facteurs et le modificateur
         resultat = (factor1 * factor2) + modificateur;
@@ -104,7 +105,7 @@ public class Calculateur : MonoBehaviour
                 pointCreation.transform.position,
                 pointCreation.transform.rotation
             );
-
+            voix.JoueVoixVictoire();
             clone.GetComponent<Nombres>().factor = resultat;
 
             Debug.Log("Potion changed");
@@ -149,6 +150,13 @@ public class Calculateur : MonoBehaviour
         // Si le résultat est trop grand, on affiche un message d'erreur
         if (resultat > 100)
         {
+
+            if (!tropDejaJoue)
+            {
+                voix.JoueVoixTrop();
+                tropDejaJoue = true;
+            }
+
             texteTrop.gameObject.SetActive(true);
             Invoke("MessageTemporaire", 3f);
         }
@@ -192,5 +200,7 @@ public class Calculateur : MonoBehaviour
 
             gestionNiveauPotions.potionDroite = null;
         }
+        
+        tropDejaJoue = false;
     }
 }

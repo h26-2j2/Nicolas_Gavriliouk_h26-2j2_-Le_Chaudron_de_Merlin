@@ -15,6 +15,8 @@ public class Voix : MonoBehaviour
 
     public AudioClip tutoriel;
 
+    public AudioClip trop;
+
     public bool reussi = false;
 
     public bool pause = false;
@@ -24,7 +26,7 @@ public class Voix : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         audioSource.PlayOneShot(bienvenue);
         Invoke("JoueVoixTutoriel", 3f);
-        InvokeRepeating("JoueVoixIndice", 10f, 10f);
+        InvokeRepeating("JoueVoixIndice", 30f, 25f);
     }
     
     
@@ -37,11 +39,17 @@ public class Voix : MonoBehaviour
         }
     }
 
+
     public void JoueVoixTutoriel()
     {
 
         
         audioSource.PlayOneShot(tutoriel);
+    }
+
+    public void JoueVoixTrop()
+    {
+        audioSource.PlayOneShot(trop);
     }
 
     public void JoueVoixVictoire()
